@@ -30,4 +30,4 @@ API HTTP externa da [FastForex](https://fastforex.io/)
 
 - *[Maíra Kaminski](https://github.com/maikaminski)*
 
-- *[@manu-melo](https://github.com/manu-melo)*
+- *[Manu Melo Nascimento](https://github.com/manu-melo)*
